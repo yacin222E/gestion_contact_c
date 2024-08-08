@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1723128389 source:c:\users\admin\desktop\gestion_contact_c\gestion_contact_c\gestion_contact_c\contact.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
